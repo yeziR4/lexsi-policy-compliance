@@ -1,0 +1,9 @@
+node_modules/
+lexsi/bin/
+lexsi/models/
+lexsi/kaggle/build/
+lexsi/kaggle/out/
+.env
+.env.*
+*.gguf
+__pycache__/
